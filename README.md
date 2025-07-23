@@ -64,5 +64,3 @@ It contains fields like:
 
 
 
-![Dashboard Overview](images/dashboard-overview.png)
-![Sales Trends](images/sales-trends.png)
